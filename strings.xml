@@ -68,7 +68,7 @@
     <!-- Status bar clock options -->
     <string name="clock_category">Часы</string>
     <string name="status_bar_clock">Дата и время</string>
-    <string name="status_bar_clock_summary">Настроить вил даты и времени</string>
+    <string name="status_bar_clock_summary">Настроить вид даты и времени</string>
     <string name="clock_title_enable">Выравнивание</string>
     <string name="clock_enabled">Включено</string>
     <string name="clock_disabled">Выключено</string>
@@ -88,7 +88,7 @@
     <string name="clock_date_style">Стиль даты</string>
     <string name="clock_date_format">Формат даты</string>
     <string name="clock_date_string_edittext_title">Должен быть в DateFormat (Пример: MM/dd/yy)</string>
-    <string name="clock_date_string_edittext_summary">Вветиде строку</string>
+    <string name="clock_date_string_edittext_summary">Введите строку</string>
     <string name="am_pm_clock_normal">Нормальный размер шрифта</string>
     <string name="am_pm_clock_small">Мелкий размер шрифта</string>
     <string name="am_pm_clock_none">Скрыть</string>
@@ -129,7 +129,7 @@
     <string name="custom_carrier_label_title">Пользовательское имя оператора</string>
     <string name="custom_carrier_label_explain">Введите новое имя. Оставьте поле пустым, чтобы вернуть настроки по умолчанию</string>
     <string name="custom_carrier_label_notset">Пользовательское имя оператора не задано</string>
-    <string name="show_carrier_title">CИмя оператора</string>
+    <string name="show_carrier_title">Имя оператора</string>
     <string name="show_carrier_disabled">Отключено</string>
     <string name="show_carrier_keyguard">Только на экране блокировки</string>
     <string name="show_carrier_statusbar">Только в строке состояния</string>
@@ -217,7 +217,7 @@
 
     <!-- QuickSettings haptic feedback -->
     <string name="quick_settings_vibrate_title">Вибрировать при касании</string>
-    <string name="quick_settings_vibrate_summary">Вибрировать при касании тайлов в быстрых настройках</string>
+    <string name="quick_settings_vibrate_summary">Вибрировать при касании плиток в быстрых настройках</string>
 
 
     <!--Owlsnest navigation-->
@@ -287,7 +287,7 @@
     <string name="gesture_category">Жесты</string>
     <string name="gesture_summary">Действия основанные на жестах</string>
     <string name="double_tap_options">Сон при двойном касании</string>
-    <string name="aosp_gesture_title">ЖестыAOSP</string>
+    <string name="aosp_gesture_title">Жесты AOSP</string>
 
     <!--Double Tap to Sleep Navbar-->
     <string name="double_tap_sleep_navbar">Панель навигации</string>
