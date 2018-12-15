@@ -220,15 +220,6 @@
     <string name="quick_settings_vibrate_summary">Вибрировать при касании плиток в быстрых настройках</string>
 
 
-    <!--Owlsnest navigation-->
-    <string name="navigation_title">Навигация</string>
-    <string name="navigation_summary">Настройка стиля и поведения панели навигации</string>
-    <string name="navigation_category">Навигация</string>
-
-    <string name="navbar_tuner_title">Изменить панель навигации</string>
-    <string name="navbar_tuner_summary">Изменить раскладку панели навигации и кнопок</string>
-
-
     <!--Owlsnest buttons-->
     <string name="buttons_title">Клавиши</string>
     <string name="buttons_summary">Изменить действия физических клавиш</string>
@@ -328,7 +319,7 @@
     <string name="lockscreen_power_menu_disabled_summary">Отключаеи меню питания только на экране блокировки</string>
 
     <!-- Scramble PIN layout when unlocking -->
-    <string name="unlock_scramble_pin_layout_title">Случаынй порядок</string>
+    <string name="unlock_scramble_pin_layout_title">Случайный порядок</string>
     <string name="unlock_scramble_pin_layout_summary">Случайный порядок клавиатуры при PIN разблокировке</string>
 
     <!-- Quick unlock -->
