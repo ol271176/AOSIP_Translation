@@ -349,7 +349,7 @@
     <!-- Ambient display music ticker -->
     <string name="force_ambient_for_media_pref_title">Функция \u0022Сейчас играет\u0022</string>
     <string name="force_ambient_for_media_pref_summary">Настроить</string>
-    <string name="ambient_ticker_footer">Функция \u0022Сейчас играет\u0022 отображает информацию о текущем треке на экране блокировки во время индикации событий.\n\nЕсли индикация событий выключена, функция \u0022Сейчас играет\u0022 отобразит незвание при переключении трека.</string>
+    <string name="ambient_ticker_footer">Функция \u0022Сейчас играет\u0022 отображает информацию о текущем треке на экране блокировки во время индикации событий.\n\nЕсли индикация событий выключена, функция \u0022Сейчас играет\u0022 отобразит название при переключении трека.</string>
     <string name="force_ambient_for_media_title">Включить</string>
 
     <string name="show_fourg_title">Отображать 4G вместо LTE</string>
