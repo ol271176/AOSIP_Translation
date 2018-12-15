@@ -156,7 +156,7 @@
     <string name="toast_icon_summary">Отобразите значок приложения, соответствующий тосту</string>
 
     <!-- Notifications while screen on -->
-    <string name="notification_sound_vib_screen_on_title">Шумные уведомления, если экран включен</string>
+    <string name="notification_sound_vib_screen_on_title">Шумные уведомления при включенном экране</string>
     <string name="notification_sound_vib_screen_on_summary">Воспроизведение звука и вибрации для уведомлений при включенном экране</string>
 
     <!-- Heads up -->
@@ -360,4 +360,17 @@
     <string name="force_ambient_for_media_pref_summary">Настроить</string>
     <string name="ambient_ticker_footer">Функция \u0022Сейчас играет\u0022 отображает информацию о текущем треке на экране блокировки во время индикации событий.\n\nЕсли индикация событий выключена, функция \u0022Сейчас играет\u0022 отобразит незвание при переключении трека.</string>
     <string name="force_ambient_for_media_title">Включить</string>
+
+    <string name="show_fourg_title">Отображать 4G вместо LTE</string>
+
+    <!-- Battery light -->
+    <string name="battery_light_settings">LED Индикатор заряда</string>
+    <string name="battery_light_enable">Включить</string>
+    <string name="battery_light_allow_on_dnd_title">Индикатор зарядка в режиме \u0022Не беспокоить\u0022</string>
+    <string name="battery_light_low_blinking_title">Мигающий индикатор при низком заряде</string>
+    <string name="battery_light_cat">Цвет индикатора при зарядке</string>
+    <string name="battery_light_low_color">Низкий</string>
+    <string name="battery_light_medium_color">Средний</string>
+    <string name="battery_light_full_color">Почти полный</string>
+    <string name="battery_light_reallyfull_color">Полный (100)</string>
 </resources>
